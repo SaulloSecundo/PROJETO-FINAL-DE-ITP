@@ -1,0 +1,36 @@
+# depslib dependency file v1.0
+1735916315 source:c:\users\saulo\documents\projeto final de itp\projeto final de itp\matriz_final.c
+	<stdio.h>
+	<stdlib.h>
+	"matriz_final.h"
+
+1735858096 c:\users\saulo\documents\projeto final de itp\projeto final de itp\matriz_final.h
+
+1735913756 source:c:\users\saulo\documents\projeto final de itp\projeto final de itp\createcb.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"matriz_final.h"
+	"validade_codigo.h"
+	"codigo_bin.h"
+
+1735913319 source:c:\users\saulo\documents\projeto final de itp\projeto final de itp\validade_codigo.c
+	<string.h>
+	"validade_codigo.h"
+
+1735781881 c:\users\saulo\documents\projeto final de itp\projeto final de itp\validade_codigo.h
+
+1735779120 source:c:\users\saulo\documents\projeto final de itp\projeto final de itp\codigo_bin.c
+	<stdlib.h>
+	<stdio.h>
+	"codigo_bin.h"
+
+1735779100 c:\users\saulo\documents\projeto final de itp\projeto final de itp\codigo_bin.h
+
+1735852389 c:\users\saulo\documents\projeto final de itp\projeto final de itp\entradas.h
+
+1735852557 source:c:\users\saulo\documents\projeto final de itp\projeto final de itp\entradas.c
+	<stdio.h>
+	<string.h>
+	"entradas.h"
+
